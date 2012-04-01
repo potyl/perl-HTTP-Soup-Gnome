@@ -1,0 +1,10 @@
+lib/HTTP/Soup/Gnome.pm
+Makefile.PL
+MANIFEST
+MANIFEST.SKIP
+README
+t/proxy.t
+COPYING
+Changes
+MYMETA.json
+MYMETA.yml

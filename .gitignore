@@ -1,0 +1,7 @@
+Makefile
+Makefile.old
+blib
+pm_to_blib
+HTTP-Soup-Gnome-*.tar.gz
+MYMETA.json
+MYMETA.yml
